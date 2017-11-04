@@ -23,7 +23,7 @@ Grid design (v1.2 as of 2017/11/04).
 1. Install a stylesheet manager (used to put the CSS on the page).
     - [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) on Firefox or [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) on Firefox.
     - [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en) on Chrome.
-2. Go to the style you with to use:
+2. Go to the style you wish to use:
     - Vertical style: https://userstyles.org/styles/150636/poe-trade-revamped-vertical
     - Grid style:  https://userstyles.org/styles/150637/poe-trade-revamped-grid
 3. Click on the **Install Style** button on the website.
