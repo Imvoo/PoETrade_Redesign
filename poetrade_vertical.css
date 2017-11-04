@@ -1,0 +1,18 @@
+#trade {
+    background: black;
+}
+
+.resultset {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div.middle {
+    display: inline-block;
+}
+
+.row {
+    margin: 10px !important;
+    border: 1px solid rgba(255,255,255,0.1);
+}
