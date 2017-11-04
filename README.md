@@ -1,4 +1,4 @@
-# PoETrade Redesign v1.2
+# PoETrade Redesign v1.2.1
 Unofficial redesign for the official Path of Exile trade website.
 
 ## Overview
@@ -7,14 +7,14 @@ This is just a few design changes to the PoE trade website to make it easier to 
 
 **This will probably stop working when design changes are made by GGG, but uninstalling is as easy as removing the CSS file later on**.
 
-Official design (as of 2017/11/04).
-![](https://i.imgur.com/JHX5P0V.png)
+Official design (as of 2017/11/05).
+![](https://i.imgur.com/UxkC6pC.png)
 
-Vertical design (v1.2 as of 2017/11/04).
-![](https://i.imgur.com/zh8T8xx.png)
+Vertical design (v1.2.1 as of 2017/11/05).
+![](https://i.imgur.com/BrtCGkN.png)
 
-Grid design (v1.2 as of 2017/11/04).
-![](https://i.imgur.com/7lcWDJJ.png)
+Grid design (v1.2.1 as of 2017/11/05).
+![](https://i.imgur.com/vcuYUEV.png)
 
 ## Installation
 
@@ -45,6 +45,13 @@ To update, reinstall the CSS file or go to your stylesheet manager and click on 
 2. Uninstall your stylesheet manager if you no longer wish to use it.
 
 ## Changelog
+
+1.2.1
+
+- Minor style fixes to clean things up.
+- Ensure boxes are always fixed at 45% width in Vertical style.
+- Minor changes to padding/spacing.
+- Add slight borders to differentiate sections better.
 
 1.2
 
