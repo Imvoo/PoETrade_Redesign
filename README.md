@@ -1,4 +1,4 @@
-# PoETrade Redesign
+# PoETrade Redesign v1.0
 Unofficial redesign for the official Path of Exile trade website.
 
 ## Overview
