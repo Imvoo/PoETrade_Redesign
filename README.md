@@ -39,3 +39,9 @@ Grid design (as of 2017/11/04).
 
 1. Go to your stylesheet manager (Stylish or Stylus) and delete the stylesheet installed (should be called **PoE Trade Revamped - Vertical** or **PoE Trade Revamped - Grid**).
 2. Uninstall your stylesheet manager if you no longer wish to use it.
+
+## Changelog
+
+1.0
+
+- Added initial vertical and grid files.
