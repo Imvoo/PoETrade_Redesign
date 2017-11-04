@@ -18,16 +18,19 @@
 
     div.left {
         width: 100% !important;
+        order: 0;
     }
 
     div.middle {
         margin-top: 10px;
         width: inherit !important;
+        order: 2;
     }
 
     div.right {
         width: 100% !important;
         margin-top: 10px;
+        order: 1;
     }
 
     .pull-left {

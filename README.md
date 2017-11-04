@@ -1,4 +1,4 @@
-# PoETrade Redesign v1.0
+# PoETrade Redesign v1.1
 Unofficial redesign for the official Path of Exile trade website.
 
 ## Overview
@@ -41,6 +41,11 @@ Grid design (as of 2017/11/04).
 2. Uninstall your stylesheet manager if you no longer wish to use it.
 
 ## Changelog
+
+1.1
+
+- Moved item prices to underneath the item picture.
+- Cleaned up vertical style slightly.
 
 1.0
 

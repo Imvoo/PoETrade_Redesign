@@ -9,12 +9,30 @@
         justify-content: center;
     }
 
+    div.left {
+        order: 0;
+    }
+
     div.middle {
         display: inline-block;
+        order: 2;
+        flex-basis: 100%;
+    }
+
+    div.right {
+         order: 1;
     }
 
     .row {
         margin: 10px !important;
         border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .price-label {
+         display: none;
+    }
+
+    .price br {
+         display: none;
     }
 }
