@@ -11,12 +11,15 @@
 
     div.left {
         order: 0;
+        flex-basis: 0%;
+        margin-right: 20px;
+        margin-left: 20px;
     }
 
     div.middle {
         display: inline-block;
         order: 2;
-        flex-basis: 100%;
+        flex: 1;
     }
 
     div.right {
