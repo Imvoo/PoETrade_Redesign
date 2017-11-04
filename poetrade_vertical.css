@@ -1,18 +1,20 @@
-#trade {
-    background: black;
-}
+@-moz-document url-prefix("http://www.pathofexile.com/trade") {
+    #trade {
+        background: black;
+    }
 
-.resultset {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
+    .resultset {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
 
-div.middle {
-    display: inline-block;
-}
+    div.middle {
+        display: inline-block;
+    }
 
-.row {
-    margin: 10px !important;
-    border: 1px solid rgba(255,255,255,0.1);
+    .row {
+        margin: 10px !important;
+        border: 1px solid rgba(255,255,255,0.1);
+    }
 }

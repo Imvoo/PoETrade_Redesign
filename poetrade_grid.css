@@ -1,46 +1,48 @@
-#trade {
-    background: black;
-}
+@-moz-document url-prefix("http://www.pathofexile.com/trade") {
+    #trade {
+        background: black;
+    }
 
-.resultset {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    justify-content: center;
-}
+    .resultset {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+        justify-content: center;
+    }
 
-.row {
-    flex-direction: column;
-    border: 1px solid rgba(255,255,255,0.1);
-    margin: 10px !important;
-}
+    .row {
+        flex-direction: column;
+        border: 1px solid rgba(255,255,255,0.1);
+        margin: 10px !important;
+    }
 
-div.left {
-    width: 100% !important;
-}
+    div.left {
+        width: 100% !important;
+    }
 
-div.middle {
-    margin-top: 10px;
-    width: inherit !important;
-}
+    div.middle {
+        margin-top: 10px;
+        width: inherit !important;
+    }
 
-div.right {
-    width: 100% !important;
-    margin-top: 10px;
-}
+    div.right {
+        width: 100% !important;
+        margin-top: 10px;
+    }
 
-.pull-left {
-    float: none !important;
-}
+    .pull-left {
+        float: none !important;
+    }
 
-.price-label {
-    display: none;
-}
+    .price-label {
+        display: none;
+    }
 
-.price {
-    font-size: 20px !important;
-}
+    .price {
+        font-size: 20px !important;
+    }
 
-.price br {
-    display: none;
+    .price br {
+        display: none;
+    }
 }
