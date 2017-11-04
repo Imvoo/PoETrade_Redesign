@@ -1,4 +1,4 @@
-# PoETrade Redesign v1.1
+# PoETrade Redesign v1.2
 Unofficial redesign for the official Path of Exile trade website.
 
 ## Overview
@@ -10,10 +10,10 @@ This is just a few design changes to the PoE trade website to make it easier to 
 Official design (as of 2017/11/04).
 ![](https://i.imgur.com/JHX5P0V.png)
 
-Vertical design (v1.1 as of 2017/11/04).
-![](https://i.imgur.com/u4mgoti.png)
+Vertical design (v1.2 as of 2017/11/04).
+![](https://i.imgur.com/zh8T8xx.png)
 
-Grid design (v1.1 as of 2017/11/04).
+Grid design (v1.2 as of 2017/11/04).
 ![](https://i.imgur.com/7lcWDJJ.png)
 
 ## Installation
@@ -45,6 +45,10 @@ To update, reinstall the CSS file or go to your stylesheet manager and click on 
 2. Uninstall your stylesheet manager if you no longer wish to use it.
 
 ## Changelog
+
+1.2
+
+- Made the price field for Vertical style not as cropped (expands out, looks much better).
 
 1.1
 
