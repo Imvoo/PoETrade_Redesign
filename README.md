@@ -35,6 +35,10 @@ Grid design (as of 2017/11/04).
 2. Create a new style and paste in either the `poetrade_grid.css` file or the `poetrade_vertical.css` file found on this repository.
 3. Limit the domains to apply only to **URLs on the domain** `pathofexile.com` so that the CSS only affects the PoE trade website.
 
+## Updating
+
+To update, reinstall the CSS file or go to your stylesheet manager and click on 'Manage Styles'. There should be an option to 'Check for Updates' and this will prompt you to update to the newest version.
+
 ## Removal
 
 1. Go to your stylesheet manager (Stylish or Stylus) and delete the stylesheet installed (should be called **PoE Trade Revamped - Vertical** or **PoE Trade Revamped - Grid**).
