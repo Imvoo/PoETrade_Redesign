@@ -10,11 +10,11 @@ This is just a few design changes to the PoE trade website to make it easier to 
 Official design (as of 2017/11/04).
 ![](https://i.imgur.com/JHX5P0V.png)
 
-Vertical design (as of 2017/11/04).
-![](https://i.imgur.com/NklezLz.png)
+Vertical design (v1.1 as of 2017/11/04).
+![](https://i.imgur.com/u4mgoti.png)
 
-Grid design (as of 2017/11/04).
-![](https://i.imgur.com/WgJ2hUT.png)
+Grid design (v1.1 as of 2017/11/04).
+![](https://i.imgur.com/7lcWDJJ.png)
 
 ## Installation
 
