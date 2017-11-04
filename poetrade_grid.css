@@ -1,4 +1,4 @@
-@-moz-document url-prefix("http://www.pathofexile.com/trade") {
+@-moz-document domain("pathofexile.com") {
     #trade {
         background: black;
     }
