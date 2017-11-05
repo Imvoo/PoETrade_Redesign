@@ -1,4 +1,4 @@
-# PoETrade Redesign v1.2.1
+# PoETrade Redesign v1.3
 Unofficial redesign for the official Path of Exile trade website.
 
 ## Overview
@@ -10,11 +10,11 @@ This is just a few design changes to the PoE trade website to make it easier to 
 Official design (as of 2017/11/05).
 ![](https://i.imgur.com/UxkC6pC.png)
 
-Vertical design (v1.2.1 as of 2017/11/05).
+Vertical design (v1.3 as of 2017/11/05).
 ![](https://i.imgur.com/BrtCGkN.png)
 
-Grid design (v1.2.1 as of 2017/11/05).
-![](https://i.imgur.com/vcuYUEV.png)
+Grid design (v1.3 as of 2017/11/05).
+![](https://i.imgur.com/uFDvocr.png)
 
 ## Installation
 
@@ -45,6 +45,10 @@ To update, reinstall the CSS file or go to your stylesheet manager and click on 
 2. Uninstall your stylesheet manager if you no longer wish to use it.
 
 ## Changelog
+
+1.3
+
+- Updated Grid style to have prices lined up and item descriptions lined up for easy comparison.
 
 1.2.1
 
